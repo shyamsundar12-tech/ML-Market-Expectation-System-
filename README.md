@@ -1,4 +1,4 @@
-# ML-Market-Expectation-System-
+
 # 📈 ML Market Expectation System
 
 A machine learning and statistical market analysis project developed during my **ReTech internship**, progressing through three versions from a basic Linear Regression model to an interactive **Streamlit dashboard**.
